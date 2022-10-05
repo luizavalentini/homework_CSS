@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 .content{
+    margin-bottom: 4.3%;
     margin-top: 2%;
     text-align: start;
     margin-left: 10%;
@@ -80,7 +81,7 @@
 .footer{
     background-color: red;
     padding-top: 3%;
-    height: 230px;
+    height: 285px;
     width: 100%;
     padding-left: 15%;
     color: white;

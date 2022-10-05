@@ -64,12 +64,15 @@
     text-align: center;
 }
 .footer{
+    margin-top: 3%;
     background-color: red;
-    padding-top: 4%;
-    height: 185px;
+    padding-top: 3%;
+    height: 285px;
     width: 100%;
-    padding-left: 19%;
+    padding-left: 15%;
     color: white;
+    margin-top: 2%;
+    margin-bottom: 2%;
 
 }
 
