@@ -65,16 +65,14 @@
 }
 .footer{
     background-color: red;
-    padding-top: 3%;
+    padding-top: 4%;
     height: 185px;
     width: 100%;
     padding-left: 19%;
     color: white;
 
 }
-.footer-style{
-    color: white;
-}
+
 .video{
     text-align: center;
 }
